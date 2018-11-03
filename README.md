@@ -1,6 +1,6 @@
-# template-snowflake
+# DX-snowflake
 
-This is the Medium's snowflake as template without any of the specific texts. 
+Using Snowflake visualization to describe dimensions of Developer Experience in using a new framework / library. 
 
 ## Installation
 
